@@ -11,7 +11,6 @@ This is a beginner-level Python project that allows users to register, log in, a
 ## How to Run
 1. Make sure Python 3 is installed.
 2. Run the script using:
-
-3. 
+3. Follow the on-screen instructions to enter your age, income, expenses, and receive credit eligibility and reward information.
 ## Author
 mertcanbdr
