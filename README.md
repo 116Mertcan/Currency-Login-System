@@ -1,2 +1,17 @@
-# Currency-Login-System
-This is a simple Python project that allows a user to register, log in, and calculate currency conversions using if-else statements.
+# Currency Login System
+
+This is a beginner-level Python project that allows users to register, log in, and calculate currency-based rewards based on income and expenses.
+
+## Features
+- User registration and login
+- Monthly income and expense input
+- Credit eligibility check
+- Reward calculation based on financial surplus
+
+## How to Run
+1. Make sure Python 3 is installed.
+2. Run the script using:
+
+3. 
+## Author
+mertcanbdr
